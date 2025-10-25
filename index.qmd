@@ -8,9 +8,11 @@ theme: cosmo          # A clean, simple, and professional theme
 css: styles.css       # Optional: for custom styling
 ---
 
-!(images/Picture1.png)
+![Jean Villamor MBA Banner](images/Picture1.png)
 
 # 👤 About Jean Villamor
+
+![Professional Headshot] )images/Headshot.jpeg)
 
 I’m an **MBA candidate** at University Canada West (Vancouver) with **8+ years of Accounts Payable/Receivable experience**. I'm practical, process-driven, and people-first: I like turning messy financial data into clear, actionable insights while keeping teams informed and supported.
 
