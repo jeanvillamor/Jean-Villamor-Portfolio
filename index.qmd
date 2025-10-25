@@ -6,7 +6,7 @@ theme: cosmo          # A clean, simple, and professional theme
 css: styles.css       # Optional: for custom styling
 ---
 
-![](images/Picture1.png)
+![](images/Jeanbanner.png)
 
 # 👤 About Me
 
