@@ -8,7 +8,7 @@ theme: cosmo          # A clean, simple, and professional theme
 css: styles.css       # Optional: for custom styling
 ---
 
-![Jean Villamor MBA Banner](images/Picture1.png)
+!(images/Picture1.png)
 
 # 👤 About Jean Villamor
 
