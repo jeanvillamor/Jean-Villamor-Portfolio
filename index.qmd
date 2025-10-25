@@ -12,8 +12,6 @@ css: styles.css       # Optional: for custom styling
 
 # 👤 About Jean Villamor
 
-![Professional Headshot](images/Headshot.jpeg)
-
 I’m an **MBA candidate** at University Canada West (Vancouver) with **8+ years of Accounts Payable/Receivable experience**. I'm practical, process-driven, and people-first: I like turning messy financial data into clear, actionable insights while keeping teams informed and supported.
 
 My near-term goal is to step into a **Finance/Accounting Analyst role** where I can combine solid fundamentals (AP, bank recs, month-end support) with data tools and disciplined execution.
@@ -49,6 +47,7 @@ Experience in service environments (Tim Hortons; Chocolats Favoris).
 
 ### Academic & Team Projects
 A showcase of analytical, project management, and digital skills.
+
 * **Canada Post Digital Transformation:** Developed an AI/IoT roadmap, analyzed EV fleet considerations, and drafted a change management plan (Kotter.
 * **Netflix Ad-Supported Tier Marketing Plan:** Created a strategy, defined key performance indicators (CPA, churn, ad-tier adds), and structured the creative brief.
 * **Urban Leather Retail (PM):** Managed Project Management basics including WBS (Work Breakdown Structure), risk management plan, and schedule/cost basics.
