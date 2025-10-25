@@ -6,6 +6,8 @@ toc: true             # Creates an automatic in-page navigation menu
 toc-title: "Navigation"
 theme: cosmo          # A clean, simple, and professional theme
 css: styles.css       # Optional: for custom styling
+title-block-banner: false # Hides the banner design
+title-block-style: default # Ensures no default large title display
 ---
 
 ![](images/Picture1.png)
