@@ -8,9 +8,9 @@ theme: cosmo          # A clean, simple, and professional theme
 css: styles.css       # Optional: for custom styling
 ---
 
-![Jean Villamor MBA Banner](images/Picture1.png)
+![](images/Picture1.png)
 
-# 👤 About Jean Villamor
+# 👤 About Me
 
 I’m an **MBA candidate** at University Canada West (Vancouver) with **8+ years of Accounts Payable/Receivable experience**. I'm practical, process-driven, and people-first: I like turning messy financial data into clear, actionable insights while keeping teams informed and supported.
 
@@ -71,5 +71,5 @@ Jean Villamor (2242759)
 
 * **Email:** jeanvillamor87@gmail.com
 * **LinkedIn:** [linkedin.com/in/jean-villamor-2a9890102](https://www.linkedin.com/in/jean-villamor-2a9890102)
-* **Phone:** +236 984 9772
+* **Phone:** +1 236 984 9772
 * **Published:** October 26, 2025
