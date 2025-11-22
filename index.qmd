@@ -1,16 +1,8 @@
----
-format: html
-toc: true             # Creates an automatic in-page navigation menu
-toc-title: "Navigation"
-theme: cosmo          # A clean, simple, and professional theme
-css: styles.css       # Optional: for custom styling
----
+![](images/Picture1.png)
 
-![](images/Jeanbanner.png)
+# 👤 About Jean Villamor
 
-# 👤 About Me
-
-I’m an **MBA candidate** at University Canada West (Vancouver) with **8+ years of Accounts Payable/Receivable experience**. I'm practical, process-driven, and people-first: I like turning messy financial data into clear, actionable insights while keeping teams informed and supported.
+I’m an **MBA candidate** at University Canada West (Vancouver) with **12+ years of Accounts Payable/Receivable experience**. I'm practical, process-driven, and people-first: I excel at turning messy financial data into clear, actionable insights while keeping teams informed and supported.
 
 My near-term goal is to step into a **Finance/Accounting Analyst role** where I can combine solid fundamentals (AP, bank recs, month-end support) with data tools and disciplined execution.
 
@@ -20,54 +12,35 @@ My near-term goal is to step into a **Finance/Accounting Analyst role** where I 
 
 ---
 
-## 💼 Professional Highlights
+## 💼 Professional & Academic Snapshot
 
-### Accounts Payables Specialist (8+ Years)
-Prior experience centered on core finance operations.
+This section summarizes my experience; view the full history and project details on the navigation bar above.
 
-* **Core Responsibilities:** Invoices (coding, 3-way match), vendor management, payment runs, bank reconciliations, expense audits, and ERP/Excel workflows.
+### Core Experience
+* **Operational Excellence:** 12+ years managing the full AP/AR lifecycle, specializing in high-volume processing, vendor management, and internal controls (e.g., cut late fees by **20%** and maintain **98% invoice accuracy**).
+* **Technical Mastery:** Highly proficient in **Microsoft Dynamics 365, Sage, QuickBooks, and Advanced Excel**.
 
-* **Key Value:** Known for strong accuracy and quick issue resolution.
-
-
-### Customer-Facing Roles
-Experience in service environments (Tim Hortons; Chocolats Favoris).
-
-* Sharpened service discipline, cash handling, POS accuracy, and teamwork—skills useful for cross-functional coordination in finance operations.
+### Strategic Projects
+* **MBA Focus:** Applied strategic analysis to complex business problems, including developing an **AI/IoT roadmap for Canada Post** and defining **KPI strategy for the Netflix Ad-Supported Tier**.
+* **Academic Highlights:** MBA from **University Canada West** (in progress).
 
 ---
 
-## 🎓 Education & Projects
-
-### MBA, University Canada West (UCW), Vancouver
-* **Status:** In progress 
-* **Relevant Coursework:** Financial Management, Project Management, Digital Marketing, Application of AI in Business.
-
-### Academic & Team Projects
-A showcase of analytical, project management, and digital skills.
-
-* **Canada Post Digital Transformation:** Developed an AI/IoT roadmap, analyzed EV fleet considerations, and drafted a change management plan (Kotter.
-* **Netflix Ad-Supported Tier Marketing Plan:** Created a strategy, defined key performance indicators (CPA, churn, ad-tier adds), and structured the creative brief.
-* **Urban Leather Retail (PM):** Managed Project Management basics including WBS (Work Breakdown Structure), risk management plan, and schedule/cost basics.
-* **IKEA Multi-Agent LLM Chatbot Evaluation:** Compared Large Language Models (LLMs) on accuracy and bias, ran basic statistical checks, and drafted improvement actions.
-
----
-
-## 🛠️ Key Skills
+## 🛠️ Core Skills & Next Steps
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Accounting/Finance** | AP/AR, vendor relations, bank reconciliations, GL coding, expense control, basic month-end support. |
-| **Tools & Software** | **Excel** (pivot tables, lookups), Google Suite, QuickBooks/Sage/Dynamics 365 (familiar), Quarto/Markdown for clean documentation. |
-| **Ways of Working** | SBAR updates, Eisenhower prioritization, Pomodoro focus bursts, inclusive team communication. |
+| **Accounting/Finance** | AP/AR, Bank Reconciliations, GL Coding, Month-End Support. |
+| **ERP/Tools** | Microsoft Dynamics 365, Sage, QuickBooks, Advanced Excel. |
+| **Transferrable Skills** | Time Management, Accuracy, Issue Resolution. |
 
 ---
 
-## 🔗 Contact
+## ⬇️ Download My Full CV
 
-Jean Villamor (2242759) 
+* **Email:** [jeanvillamor87@gmail.com](mailto:jeanvillamor87@gmail.com)
+* **LinkedIn:** [linkedin.com/in/jean-villamor-2a9890102](https://linkedin.com/in/jean-villamor-2a9890102)
 
-* **Email:** jeanvillamor87@gmail.com
-* **LinkedIn:** [linkedin.com/in/jean-villamor-2a9890102](https://www.linkedin.com/in/jean-villamor-2a9890102)
-* **Phone:** +1 236 984 9772
-* **Published:** October 26, 2025
+**[Download Resume PDF](images/Jean_Villamor_Resume.pdf){.btn .btn-lg .btn-primary}**
+
+---

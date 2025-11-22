@@ -1,0 +1,31 @@
+---
+title: "Assignment 3: LLM Use Reflection"
+format: pdf
+---
+# Reflection on LLMs and the Portfolio Process
+
+The development of this five-page portfolio from a single-page draft helped me understand ChatGPT's functionality as a writing tool. The LLM functioned as a tool which went beyond content creation because it delivered its best results when users needed help with organizing their work and generating new ideas.
+
+---
+
+### What Worked Better as Pages Were Added?
+
+>The LLM function enabled me to develop my core elevator pitch and skills list for Assignment 1. The output from this initial attempt was unoriginal. The LLM function enabled me to create outlines and structural plans which I used to transform the project into its current multi-page format.
+>
+>I asked the LLM to create a site map and produce particular section headings for new pages instead of asking for full page content. The tool enabled me to concentrate on developing thorough project descriptions because it managed all necessary page structure functions. The LLM created the basic framework which I used to incorporate my professional knowledge into the content.
+
+---
+
+### Ensuring Authenticity and Accuracy
+
+>The entire process reached its most vital point when I performed personalization and validation work. 
+>
+>1. I added particular details to my work experience by mentioning my Canada Post Digital Transformation roadmap and Netflix Ad-Supported Tier Marketing Plan.
+>
+>2. I transformed MBA terminology into my individual approach which focuses on practical methods and process optimization and people-oriented strategies.
+>
+>3. I checked all system names thoroughly to swap out general ERPs with the actual tools I have experience with including QuickBooks/Sage/Dynamics 365.
+>
+>The LLM draft contained proper structure yet it failed to include the exact factual information which makes up my professional profile.The LLM tool produced technical content and initial concepts but my complete review and practical experience application added the critical depth and exact details and individualized touch which makes the portfolio successful.
+
+---

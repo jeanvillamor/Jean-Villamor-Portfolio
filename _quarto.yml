@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Jean Villamor | MBA Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home/About
+      - href: resume.qmd
+        text: Resume/CV
+      - href: projects.qmd
+        text: Projects/Case Studies
+      - href: skills.qmd
+        text: Skills & Certifications
+      - href: contact.qmd
+        text: Contact
+format:
+  html:
+    theme: cosmo
+    toc: true

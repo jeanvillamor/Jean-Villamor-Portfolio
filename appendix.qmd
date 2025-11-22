@@ -1,53 +1,37 @@
 ---
-title: "Assignment 1 Appendix: LLM Draft and Commentary"
-format: pdf          # Use PDF format for a formal appendix submission
+title: "Assignment 3 Appendix: LLM Site Map and Revision Notes"
+format: pdf
 ---
 
-# Appendix: LLM-Generated Draft and Outline
+# 📚 LLM Planning and Annotation
 
-**Prompt used in the LLM (e.g., ChatGPT/Spreed.chat):** “Create an outline and sample text for a one-page MBA student portfolio focusing on a finance background with 8+ years of AP/AR experience.”
+This appendix contains the initial, raw Large Language Model (LLM) output used to structure the multi-page website, followed by an annotation of the specific revisions and factual corrections made to ensure authenticity.
 
-## LLM Output (Draft Outline and Text)
+## 🤖 LLM Output: Site Map and Section Drafts (Raw)
 
-**Prompt:** “Create an outline and sample text for a one-page MBA student portfolio focusing on a finance background with 8+ years of AP/AR experience.”
+**Prompt used in the LLM (e.g., ChatGPT):** “Create a site map and detailed section outlines for a multi-page MBA portfolio website with pages for Home/About, Resume, Projects/Case Studies, Skills & Certifications, and Contact. Provide sample content and structure for each page.”
 
-### Draft Outline
+### Draft Site Map and Section Outlines
 
-1.  **Header:** Name, Title (MBA Candidate / Financial Process Expert), Contact Info.
-2.  **Summary/Vision:** A concise statement about leveraging financial experience with strategic MBA insights.
-3.  **Core Experience:** Accounts Payable/Receivable Management (8+ Years).
-4.  **Skills Matrix:** Separate list for Technical Skills (ERP, Excel) and Professional Skills (Communication, Leadership).
-5.  **Education:** MBA (UCW) and relevant finance/management coursework.
-6.  **Key Projects:** Two to three quantifiable projects demonstrating analysis or leadership.
+* **Project Goal:** Transform single-page portfolio into a comprehensive, five-page professional website for an MBA candidate with 8+ years of finance operations experience.
 
-### Sample Draft Text
-
-**Header**
-Jean Villamor | MBA Candidate
-Finance Operations Expert | Vancouver, BC
-
-**Summary/Vision**
-I am a dedicated MBA candidate and financial professional with over eight years of experience specializing in Accounts Payable and Receivable. My focus is on turning operational financial data into strategic assets, driving process efficiency, and ensuring compliance. I am committed to leveraging my foundational accounting knowledge with modern data tools to achieve disciplined execution and financial clarity.
-
-**Core Experience: Financial Operations (8+ Years)**
-My career foundation is in hands-on finance operations, where I managed the full AP/AR lifecycle, including high-volume invoice processing, vendor relations, and precise bank reconciliation. I excel at identifying bottlenecks in ERP workflows and improving month-end closing support. I am known for maintaining calm and accuracy under pressure.
-
-**Key Projects**
-* **Financial Process Automation:** Led a small team to audit and streamline the expense reconciliation workflow, resulting in a **15% reduction** in month-end variance reporting time.
-* **Data Analysis:** Utilized Advanced Excel and basic SQL queries to analyze vendor payment terms, identifying opportunities to optimize cash flow management.
-
-**Technical Skills**
-* **Financial Systems:** SAP, Oracle, QuickBooks (Familiar)
-* **Analysis:** Advanced Excel (Pivot Tables, Macros), Basic SQL
-* **Reporting:** PowerPoint, Data Visualization basics
+| Page (`.qmd` file) | Purpose/Outline | LLM-Generated Sample Content Structure |
+| :--- | :--- | :--- |
+| **index.qmd** | Main landing page. Focus on personal philosophy, elevator pitch, and location. | *Elevator Pitch:* Leveraging financial depth (AP/AR) with strategic MBA foresight. *Philosophy:* Process-driven, people-first approach. *Quick Links:* Top 3 skills, contact methods. |
+| **resume.qmd** | Full professional chronological history and detailed role descriptions. | *Structure:* Reverse-chronological list of all roles. *Content:* Use bullet points with quantifiable achievements (e.g., "Managed 300+ vendor accounts," "Supported 10% reduction in month-end close time"). |
+| **projects.qmd** | Dedicated space for case studies and academic work. | *Structure:* Use Quarto tabs or sections for each project. *Content:* Project Title, Problem/Goal, Methodology (Tools Used: R/SQL/Excel), Key Results (Quantifiable impact). |
+| **skills.qmd** | Categorized matrix of technical, finance, and soft skills. | *Categories:* **Finance/Ops:** GL coding, expense control. **Technical:** ERPs. **Strategic:** Project Management, AI Applications. |
+| **contact.qmd** | Simple page with all professional contact information. | *Elements:* Email address, LinkedIn link, Vancouver location tag, downloadable resume link (PDF). |
 
 ---
 
-# Commentary on Personalization
+## 📝 Commentary on Personalization and Revision
 
-The LLM draft provided a useful **structural framework** (Header, Summary, Experience, Projects, Skills). The key revisions were focused on authenticity, accuracy, and factual specificity:
+[cite_start]This section annotates the revisions made to the LLM's raw output to ensure the content is authentic, accurate, and reflects Jean's specific professional narrative.
 
-1.  **Authenticity:** The **About Me** section was heavily re-written to capture the "practical, process-driven, and people-first" philosophy and the personal "calm under pressure" strength, rather than using generic MBA mission statements.
-2.  **Accuracy (Experience):** Generic ERP names (e.g., SAP/Oracle) were replaced or augmented with the correct tools (**QuickBooks/Sage/Dynamics 365**) and the specific functional knowledge (**3-way match, bank recs**) relevant to Jean's background.
-3.  **Factual Detail (Projects):** Placeholder projects were replaced entirely with **four specific academic projects** (Canada Post, Netflix, Urban Leather, IKEA LLM Evaluation) to demonstrate analytical, strategic, and technical application.
-4.  **Tone and Style:** The language was refined to be direct and clear, aligning with a disciplined **Accounting/Finance Analyst** target role.
+1.  **Factual Correction (Systems):** The LLM suggested generic ERP systems. These were replaced or augmented with the correct, verified tools from Jean's experience: **Microsoft Dynamics 365, QuickBooks, and Sage**.
+2.  **Specificity (Projects):** Generic "data analysis projects" were replaced with the specific, verified academic projects, including the **Canada Post AI/IoT roadmap** and the **Netflix Ad-Supported Tier Marketing Plan**. This showcases applied strategic thinking.
+3.  **Quantification:** All quantifiable metrics from the resume (e.g., **98% accuracy**, **20% cost reduction**, **15% AR reduction**) were pulled out and framed as "Case Studies" to maximize impact on the `projects.qmd` page.
+4.  **Voice and Philosophy:** Generic MBA phrasing was replaced with Jean's personal philosophy: **"practical, process-driven, and people-first,"** ensuring the site's voice is authentic.
+
+---

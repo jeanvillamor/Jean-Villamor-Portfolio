@@ -1,0 +1,50 @@
+# 🛠️ Key Skills & Competencies
+
+## Core Finance & Accounting Operations
+
+This table structures the primary financial functions derived from 12+ years of operational experience.
+
+| Financial Area | Key Competencies | Experience Level |
+| :--- | :--- | :--- |
+| **Accounts Management** | AP/AR, High Volume Invoice Processing, Vendor Management | Expert |
+| **Reconciliations** | Bank & Account Reconciliations, Vendor Statement Reconciliation | Expert |
+| **General Ledger** | Month End Closing & Journal Entries, GL Coding | Proficient |
+| **Payment Control** | Payment Processing (ACH, Wire, Cheques), Expense Control | Expert |
+
+## Technical Proficiency & ERP Systems
+
+Visual integration of logos enhances the impact of your system knowledge.
+
+* **ERP Systems:**
+    * **Microsoft Dynamics 365** ![](images/msdynamics_logo.png){width=25px}
+    * **QuickBooks** ![](images/quickbooks_logo.png){width=25px}
+    * **Sage**
+* **Data Tools:** Advanced Excel (Pivot Tables, Formulas), DSSI System
+* **Documentation:** Quarto/Markdown for clean documentation
+
+## Transferrable Competencies
+
+These soft skills are essential for cross-functional collaboration.
+
+* Teamwork & Collaboration
+* Time Management & Multitasking
+* Accuracy & Reliability (98% accuracy on invoice volume)
+* Issue Resolution & Discrepancy Resolution
+
+---
+
+## 📜 Essential Certifications
+
+::: {.callout-tip}
+### Health & Safety Readiness
+* **Food Safe Certificate Level 1**
+* **Serve it Right**
+:::
+
+::: {.callout-note}
+### Emergency Response
+* **First Aid & CPR/AED Level C (BL)** ![](images/redcross_logo.png){width=25px}
+* **Childcare Care First Aid**
+:::
+
+---

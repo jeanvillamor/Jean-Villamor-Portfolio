@@ -1,0 +1,64 @@
+# 🛠️ Projects & Case Studies
+
+This page highlights key initiatives where financial discipline and strategic analysis resulted in measurable process improvements.
+
+---
+
+## 💼 Financial Case Studies (Operational Excellence)
+
+These case studies demonstrate reliability, accuracy, and process optimization in high-volume finance environments.
+
+### Case Study 1: Cost Reduction & AP Efficiency
+
+::: {.callout-tip collapse="false"}
+## 🟢 Goal: Minimize Late Fees and Duplicate Payments
+* **Action:** Established stricter AP controls, improved reconciliation processes, and introduced regular vendor statement review.
+* **Result:** Successfully **cut late fees and duplicate payments by 20%**.
+:::
+
+### Case Study 2: High-Volume Processing and Data Integrity
+
+::: {.callout-note collapse="false"}
+## 📈 Goal: Maintain Exceptional Accuracy on High Volume
+* **Action:** Managed high-volume workflows using MS Dynamics 365, DSSI, and Advance Excel for detailed verification and coding.
+* **Result:** Consistently processed over **1,000 invoices weekly** while maintaining a **98% accuracy rate**.
+:::
+
+### Case Study 3: Accounts Receivable (AR) Optimization
+
+::: {.callout-important collapse="false"}
+## 💰 Goal: Reduce Exposure to Outstanding Balances
+* **Action:** Developed a system for proactive monitoring of aging reports, prioritizing high-risk accounts, and coordinating client follow-ups.
+* **Result:** Reduced overdue accounts by **15% within three months**.
+:::
+
+---
+
+## 🎓 Academic & Team Projects (Strategic Analysis)
+
+These projects showcase the application of MBA knowledge to complex business challenges.
+
+<dl>
+  <dt><h3>Canada Post Digital Transformation</h3></dt>
+  <dd>
+    * **Role:** Strategic Planner
+    * **Scope:** Developed an **AI/IoT roadmap** for operational integration and drafted a comprehensive **change management plan** (Kotter model).
+    * **Skills:** Strategic Planning, Technology Road Mapping, Change Management.
+  </dd>
+
+  <dt><h3>Netflix Ad-Supported Tier Marketing Plan</h3></dt>
+  <dd>
+    * **Role:** Marketing Strategist
+    * **Scope:** Created a Go-to-Market strategy and defined key performance indicators (KPIs) such as **CPA, churn, and ad-tier adds**.
+    * **Skills:** Digital Marketing Strategy, KPI Definition, Competitive Analysis.
+  </dd>
+
+  <dt><h3>IKEA Multi-Agent LLM Chatbot Evaluation</h3></dt>
+  <dd>
+    * **Role:** Analyst/Evaluator
+    * **Scope:** Compared Large Language Models (LLMs) on **accuracy and bias**, ran basic statistical checks on performance, and drafted improvement actions.
+    * **Skills:** AI Application, Statistical Checks, Bias Mitigation.
+  </dd>
+</dl>
+
+---

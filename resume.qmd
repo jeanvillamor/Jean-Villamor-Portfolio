@@ -1,0 +1,52 @@
+# 📄 Professional Resume/CV
+
+## JEAN VILLAMOR
+Vancouver City, BC | [jeanvillamor87@gmail.com](mailto:jeanvillamor87@gmail.com) | 236-984-9772 | [LinkedIn Profile](https://linkedin.com/in/jean-villamor-2a9890102)
+
+---
+
+### 🎯 Professional Profile Summary
+
+::: {.callout-note}
+**Goal-Oriented Expertise**
+
+Detailed-oriented accounting professional with a **Bachelor in Microfinance & Accounting** and currently pursuing an **MBA**. Jean brings over **12 years of experience** in accounts payable and receivable, vendor management audits, and financial operations. Highly proficient with **Sage, Microsoft Dynamics 365, QuickBooks and Advance Excel**.
+:::
+
+### ✨ Quantified Accomplishments
+
+| Metric | Result | Impact |
+| :--- | :--- | :--- |
+| **Accuracy** | 1,000+ invoices weekly with **98% accuracy** | Ensured timely and error-free posting for US-based clients. |
+| **AR Optimization** | Reduced overdue accounts by **15%** (in 3 months) | Proactive monitoring and client coordination improved cash flow. |
+| **Cost Control** | Cut late fees & duplicate payments by **20%** | Tightened AP controls and improved reconciliation workflows. |
+
+---
+
+### 💼 Professional & Relevant Experience
+
+#### ACCOUNTS PAYABLE/RECEIVABLE SPECIALIST
+**IQ BackOffice** (Remote – US Account) | 11/2023 – 10/2024
+
+* Processed 1,000+ invoices per week across multiple entities with 98% accuracy using **![](images/msdynamics_logo.png){width=20px} MS Dynamics 365**, **![](images/quickbooks_logo.png){width=20px} QuickBooks**, Sage, and Advance Excel.
+* Minimized late fees and duplicate payments by 20% through improved approval workflows.
+
+#### ACCOUNTS PAYABLE SPECIALIST
+**Hilo Fish Company**, Manila Philippines | 08/2015 – 08/2023
+
+* Verified and processed vendor invoices, ensuring accurate coding, approvals, and timely payment using Sage.
+* Reconciled AP transactions with the general ledger.
+
+---
+
+### 🎓 Education & Certifications
+
+| Type | Institution/Source | Details | Logo |
+| :--- | :--- | :--- | :--- |
+| **MBA** | **University Canada West** | In Progress (2024–2026) | ![](images/ucw_logo.png){width=40px} |
+| **BSA** | Philippine Christian University | Microfinance & Accounting (2010–2014) | ![](images/pcu_logo.png){width=40px} |
+| **ERP** | MS Dynamics 365 | Highly Proficient | ![](images/msdynamics_logo.png){width=40px} |
+| **ERP** | QuickBooks | Highly Proficient | ![](images/quickbooks_logo.png){width=40px} |
+| **Certification** | Red Cross | First Aid & CPR/AED Level C (BL) | ![](images/redcross_logo.png){width=40px} |
+
+---
